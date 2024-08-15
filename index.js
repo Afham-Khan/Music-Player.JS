@@ -22,56 +22,56 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/thelost.jpg',
+        img : '/thelost.jpg',
         name : 'The Lost Soul Down  ',
         artist : 'Ana de Armas',
-        music : './music/NBSPLV .mp3'
+        music : '/NBSPLV .mp3'
     },
 
     {
-        img : 'images/gta.jpg',
+        img : '/gta.jpg',
         name : 'GTA San andreas ',
         artist : 'Carl Jhonson',
-        music : './music/Gta sa.mp3'
+        music : '/Gta sa.mp3'
     },
 
     {
-        img : 'images/stay.png',
+        img : '/stay.png',
         name : 'Stay',
         artist : 'The Kid LAROI, Justin Bieber',
-        music : './music/music_stay.mp3'
+        music : '/music_stay.mp3'
     },
     {
-        img : 'images/fallingdown.jpg',
+        img : '/fallingdown.jpg',
         name : 'Falling Down',
         artist : 'Wid Cards',
-        music : './music/music_fallingdown.mp3'
+        music : '/music_fallingdown.mp3'
     },
     
     {
-        img : 'images/duvet.jpg',
+        img : '/duvet.jpg',
         name : 'Duvet',
         artist : 'Bôa',
-        music : './music/duvet.mp3'
+        music : '/duvet.mp3'
     },
     {
-        img : 'images/iyours.jpg',
+        img : '/iyours.jpg',
         name : 'i Wnna Be yours',
         artist : 'Arctic Monkeys',
-        music : './music/i wanna be yours.mp3'
+        music : '/i wanna be yours.mp3'
     },
 
     {
-        img : 'images/faded.png',
+        img : '/faded.png',
         name : 'Faded',
         artist : 'Alan Walker',
-        music : './music/music_Faded.mp3'
+        music : '/music_Faded.mp3'
     },
     {
-        img : 'images/ratherbe.jpg',
+        img : '/ratherbe.jpg',
         name : 'Rather Be',
         artist : 'Clean Bandit',
-        music : './music/music_Rather Be.mp3'
+        music : '/music_Rather Be.mp3'
     }
 ];
 
